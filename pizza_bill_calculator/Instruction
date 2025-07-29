@@ -1,0 +1,17 @@
+When running the program, it first displays "Welcome to Python Pizza Deliveries!" and then asks, "What size pizza do you want?" The user can choose from S, M, or L. For example, choosing L for large.
+
+Next, it asks, "Do you want pepperoni on your pizza?" and then "Do you want extra cheese?" The answers are saved into variables: size, pepperoni, and extra_cheese.
+
+The program will then print out the final bill amount, such as "Your final bill is..." followed by the calculated price. For instance, the final bill could be $28 based on the pricing rules.
+
+Pricing Details
+Small pizza costs $15
+Medium pizza costs $20
+Large pizza costs $25
+Additional charges:
+
+Pepperoni on a small pizza: +$2
+Pepperoni on medium or large pizza: +$3
+Extra cheese: +$1
+
+The goal is to use if, elif, else statements, nested if statements, and multiple if statements to build this program and achieve the expected behavior. 
