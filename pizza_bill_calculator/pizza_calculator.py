@@ -7,7 +7,7 @@ extra_cheese = input("Do you extra cheese? Y or N?")
 cheese = extra_cheese.upper()
 
 bill = 0
-# Calculate for bill for the size of pizza
+# Calculate bill for the size of pizza
 if (size == "S"):
     bill += 15
 elif (size == "M"):
@@ -17,7 +17,7 @@ elif (size == "L"):
 else:
     print("You didn't enter the correct input")
 
-# calculate bill for pepperoni for small and large or medium
+# calculate bill for pepperoni for small, large or medium pizza
 
 if (pep == "Y"):
     if (size == "S"):
