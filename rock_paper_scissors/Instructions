@@ -1,0 +1,4 @@
+The Rock, Paper, Scissors project involves user input, random computer choice, and logic to determine the winner.
+Input validation is essential to handle invalid user entries and prevent program crashes.
+Using lists to store ASCII art images allows easy mapping between choices and their representations.
+Testing and debugging throughout development helps catch errors early and ensures correct program behavior.
