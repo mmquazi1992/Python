@@ -1,5 +1,6 @@
 import random
 
+## ASCII for rock, paper, and scissors 
 rock = """
     _______
 ---'   ____)
@@ -47,7 +48,6 @@ else:
 
 
 list_length = len(rock_paper_scissors_list) -1
-
 rand_item =random.randint(0,list_length)
 computers_choice = rock_paper_scissors_name[rand_item]
 print (f" Computer chose {computers_choice}")
