@@ -1,0 +1,4 @@
+Developed a password generator that creates passwords with user-specified counts of letters, symbols, and numbers.
+Implemented an Easy Level password generator producing passwords with characters in sequence.
+Advanced to a Hard Level generator that randomizes the order of letters, symbols, and numbers for enhanced security.
+Utilized Python's random.choices() for selecting random characters and random.shuffle() to randomize the password list.
