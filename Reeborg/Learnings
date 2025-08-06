@@ -1,6 +1,6 @@
 The hurdle challenge features walls of variable and random heights, requiring dynamic solutions.
 Using while loops and conditions such as wall_in_front() and front_is_clear().
-Modifying the jump function to handle variable heights involves nested while loops and careful use of robot movement commands.
-Testing code iteratively and checking for syntax errors, such as missing colons, is crucial for successful completion.
+Created new functions - go_up, go_down and jump_the_hurdle to handle variable heights.
+Testing code iteratively and checking for syntax errors, such as missing colons etc..
 
 https://reeborg.ca/reeborg.html
