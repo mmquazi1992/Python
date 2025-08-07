@@ -3,4 +3,11 @@ Using while loops and conditions such as wall_in_front() and front_is_clear().
 Created new functions - go_up, go_down and jump_the_hurdle to handle variable heights.
 Testing code iteratively and checking for syntax errors, such as missing colons etc..
 
+
+The maze project involves programming a robot to navigate a maze by following the right edge.
+The robot's starting position and facing direction are randomized, requiring a robust algorithm.
+The main strategy uses a hierarchy: turn right if possible, else move forward, else turn left.
+Edge cases can cause infinite loops; debugging and testing with problem worlds was essential
+
+
 https://reeborg.ca/reeborg.html
