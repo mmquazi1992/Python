@@ -2,9 +2,6 @@ import hangman_art
 import hangman_words
 import random
 
-
-
-
 word_to_guess = random.choice(hangman_words.word_list) 
 
 
@@ -16,6 +13,7 @@ print(f"Word to guess: {blanks}")
 
 
 substring_to_find ="_"
+
 while substring_to_find in blanks:
     user_input = input("Guess your letter: ")
     
